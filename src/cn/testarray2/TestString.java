@@ -43,10 +43,26 @@ public class TestString {
         String str8="aaa bbb ccc";
         String str88=str8.trim();
         System.out.println(str88.length());
+        System.out.println("ABC".equalsIgnoreCase("abc"));
+        System.out.println("ABCDD".indexOf("B"));
+        System.out.println("ABCDD".lastIndexOf("D"));
+        System.out.println("Abcdd".startsWith("Abc"));
+        System.out.println("Abcdd".endsWith("Abc"));
+        System.out.println("ABCDD".toLowerCase());
+        System.out.println("ABCDD".toUpperCase());
+
+        System.out.println("###############################");
+        String gh="a";
+        for (int i=0;i<10;i++){//一直创建对象，所以很浪费空间
+            gh+=i;
+        }
+        System.out.println(gh);
     }
     //地址不能变，对象里的内容可以改变
     public void  setCharAt(char c,int idx){
         //value[idx]=c;
     }
     // private final char value[];所有修改方法都返回一个新的String
+
+
 }
