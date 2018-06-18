@@ -12,11 +12,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ScannerDemo2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ScannerDemo2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cn/day12_Scanner/ScannerDemo2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
               <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScannerDemo3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/day12_Scanner/ScannerDemo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/day13_String/cn_itcast_01/StringDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/day13_String/cn_itcast_02/StringDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -47,12 +77,13 @@
         <option value="$PROJECT_DIR$/src/cn/testarray2/Car.java" />
         <option value="$PROJECT_DIR$/src/cn/testarray2/Test02.java" />
         <option value="$PROJECT_DIR$/src/cn/testarray2/Test002.java" />
-        <option value="$PROJECT_DIR$/src/cn/day13_String/cn_itcast_01/StringDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/day13_String/cn_itcast_02/StringDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/testarray2/TestString.java" />
         <option value="$PROJECT_DIR$/src/cn/testarray2/Test03.java" />
         <option value="$PROJECT_DIR$/src/cn/day12_Scanner/ScannerDemo.java" />
         <option value="$PROJECT_DIR$/src/cn/day12_Scanner/ScannerDemo2.java" />
+        <option value="$PROJECT_DIR$/src/cn/day12_Scanner/ScannerDemo3.java" />
+        <option value="$PROJECT_DIR$/src/cn/day13_String/cn_itcast_01/StringDemo.java" />
       </list>
     </option>
   </component>
@@ -62,9 +93,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="730" />
-    <option name="y" value="18" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="554" />
+    <option name="y" value="299" />
     <option name="width" value="1208" />
     <option name="height" value="995" />
   </component>
@@ -83,10 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,12 +138,31 @@
               <item name="testarray" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="day12_Scanner" type="462c0819:PsiDirectoryNode" />
+              <item name="day13_String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testarray" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testarray" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="day13_String" type="462c0819:PsiDirectoryNode" />
+              <item name="cn_itcast_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testarray" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testarray" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="day13_String" type="462c0819:PsiDirectoryNode" />
+              <item name="cn_itcast_02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ScannerDemo2">
+  <component name="RunManager" selected="Application.ScannerDemo3">
     <configuration name="ScannerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -177,14 +224,14 @@
       <module name="testarray" />
       <envs />
     </configuration>
-    <configuration name="StringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ScannerDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.day13_String.cn_itcast_02.*" />
+          <option name="PATTERN" value="cn.day12_Scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="cn.day13_String.cn_itcast_02.StringDemo" />
+      <option name="MAIN_CLASS_NAME" value="cn.day12_Scanner.ScannerDemo3" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -317,18 +364,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.TestString" />
-      <item index="1" class="java.lang.String" itemvalue="Application.StringDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Test03" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ScannerDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ScannerDemo2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Test03" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ScannerDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ScannerDemo2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ScannerDemo3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ScannerDemo2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ScannerDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Test03" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestString" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StringDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ScannerDemo3" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ScannerDemo2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ScannerDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test03" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestString" />
       </list>
     </recent_temporary>
   </component>
@@ -369,14 +416,15 @@
       <workItem from="1528878830835" duration="196000" />
       <workItem from="1529062481041" duration="1751000" />
       <workItem from="1529239474656" duration="1757000" />
+      <workItem from="1529313350715" duration="3042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49297000" />
+    <option name="totallyTimeSpent" value="52339000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <frame x="554" y="299" width="1208" height="995" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -388,11 +436,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28893906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28880867" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16201717" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26984128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30599648" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -421,13 +469,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/testarray2/Test02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/testarray2/Test002.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
@@ -708,20 +749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/day13_String/cn_itcast_01/StringDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/day13_String/cn_itcast_02/StringDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -763,8 +790,8 @@
         <state relative-caret-position="172">
           <caret line="2104" column="15" lean-forward="false" selection-start-line="2104" selection-start-column="15" selection-end-line="2104" selection-end-column="15" />
           <folding>
-            <element signature="e#78006#78007#0" expanded="true" />
-            <element signature="e#78050#78051#0" expanded="true" />
+            <element signature="e#78006#78007#0" expanded="false" />
+            <element signature="e#78050#78051#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -781,6 +808,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/day12_Scanner/ScannerDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/day13_String/cn_itcast_02/StringDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/day13_String/cn_itcast_01/StringDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding />
         </state>
       </provider>
